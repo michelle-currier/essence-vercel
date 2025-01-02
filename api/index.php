@@ -24,8 +24,8 @@
 
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="./css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
-  <link href="./css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+  <link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+  <link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
 
   <link href="https://fonts.googleapis.com/css?family=Comfortaa|Fredoka+Project Infolay=swap" rel="stylesheet">
 
@@ -139,7 +139,7 @@
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="flower.webp" alt="flower essences"></div>
+    <div class="parallax"><img src="../flower.webp" alt="flower essences"></div>
   </div>
   <div class="container">
     <div class="row">
@@ -159,7 +159,7 @@
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="bridge-pixel.gif" alt="bridge garden"></div>
+    <div class="parallax"><img src="../bridge-pixel.gif" alt="bridge garden"></div>
   </div>
   <div id="second" class="row">
     <div class="col s12">
@@ -316,7 +316,7 @@
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="flowers-in-water.jpeg" alt="flowers in water"></div>
+    <div class="parallax"><img src="../flowers-in-water.jpeg" alt="flowers in water"></div>
   </div>
   <footer class="page-footer wine">
     <div class="container">
@@ -361,8 +361,8 @@
 
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-  <script src="./js/materialize.js"></script>
-  <script src="./js/init.js"></script>
+  <script src="../js/materialize.js"></script>
+  <script src="../js/init.js"></script>
   <script>
     $(document).ready(function() {
       $('.scrollspy').scrollSpy();
