@@ -14,7 +14,7 @@
 }
 
 ?>
-<!DOCTYPE html>
+<!DOCTYPE php>
 <html lang="en">
 
 <head>
