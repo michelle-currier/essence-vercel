@@ -9,7 +9,7 @@
  
  
 html {
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Comfortaa', sans-serif;
   background: #EEE9E2;
   color: #424868;
 }
@@ -24,9 +24,12 @@ h3 {
 }
 h1, h2, h3, h4{
   font-family: "Fredoka", serif;
+  font-weight: 400;
 }
 h5 {
+  font-family: "Fredoka", serif;
   line-height: 140%;
+  font-weight: 500;
 }
 h2 > i.material-icons {
   font-size: 4rem;
@@ -42,10 +45,14 @@ nav .brand-logo {
 ul.chakra-menu   {
   position:fixed;
   top:0px;
-  left:15px;
+  left:0px;
+  background: rgba(255, 255, 255, .5);
+  padding: 4px 6px;
+  border-radius: 5px;
 }
 ul.chakra-menu li a {
   font-family: "Fredoka", serif;
+  font-weight: 500;
 }
 #show {
   display: none;
