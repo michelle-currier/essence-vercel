@@ -72,14 +72,14 @@ p {
   text-shadow: none;
 }
 .brand-logo {
-  background: url('../logo.png') no-repeat;
+  background: url('../img/logo.png') no-repeat;
   width: 160px;
   height: 60px;
   margin-top: 4px;
   background-size: contain;
 }
 .sahasrara, .ajna, .visudha, .anahata, .manipura, .svadhistana, .muladhara {
-  background: url('../chakras.png') no-repeat;
+  background: url('../img/chakras.png') no-repeat;
   width: 230px;
   background-size: cover;
   float: left;
